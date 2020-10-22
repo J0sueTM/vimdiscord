@@ -2,6 +2,8 @@
 
 This plugin adds Discord RPC to Vim so you can show the world on what cool projects you're working on!
 
+This is a fork from vbe0201/vimdiscord that works on discord installed with the default package manager (pacman, apt, yum, etc), not snap
+
 ## Installation
 
 Make sure to have a Vim installation with Python 3 support.
